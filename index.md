@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: Progrm의 웹사이트
+title: Progrm의 블로그
 
 ---
 
