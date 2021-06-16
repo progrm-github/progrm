@@ -1,38 +1,25 @@
-
-# SEO
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
-
-# social
+title: Progrm의 블로그
+description: 여러가지 잡다한 것을 하는 사람의 공간.
 social_link: twitter
 social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+github_repo: progrm-github
+github_username: progrm-github
 theme_color: black
-
-# Theme
-remote_theme: 'internet-de-france/swiss'
-baseurl: '/progrm'
-
-# Defaults
-
+remote_theme: internet-de-france/swiss
+baseurl: /progrm
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: ''
+      type: pages
     values:
-      category_name: ""
-  -
-    scope:
-      path: ""
-      type: "posts"
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
     values:
-      categories: ""
-
-# Stastic UI
-remote_theme_layouts: 
-  - ""
+      categories: ''
+remote_theme_layouts:
+  - ''
   - default
   - page
   - post
@@ -43,7 +30,6 @@ social_links:
   - instagram
   - medium
   - dribbble
-
 theme_colors:
   - black
   - blue
@@ -53,5 +39,3 @@ theme_colors:
   - red
   - white
   - yellow
-
-
