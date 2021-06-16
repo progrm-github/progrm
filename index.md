@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: Progrm의 웹사이트
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+여러가지 잡다한 것을 하는 사람의 공간.
 
 
