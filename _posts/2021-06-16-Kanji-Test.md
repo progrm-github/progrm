@@ -12,6 +12,5 @@ categories: writing
 ![test](https://i.ibb.co/b2Qsv59/image.png)
 ![test](https://i.ibb.co/jffP3CF/image.png)
 
-[직접 해보기]: https://kanji-test.netlify.app/
-[소스코드]: https://github.com/progrm-github/kanji-test
-
+[직접 해보기](https://kanji-test.netlify.app/)<br>
+[소스코드](https://github.com/progrm-github/kanji-test)
